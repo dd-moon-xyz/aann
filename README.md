@@ -2,4 +2,4 @@
 
 ![](assets/space-invaders.png)
 
-project_page&nbsp;&nbsp;::&nbsp;&nbsp;[bastiansg.github.io/aann](https://bastiansg.github.io/aann/)
+project_page&nbsp;&nbsp;::&nbsp;&nbsp;[dd-moon-xyz.github.io/aann](https://dd-moon-xyz.github.io/aann/)
